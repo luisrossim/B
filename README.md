@@ -1,6 +1,7 @@
-# b_flutter
+# B 
 
 A new Flutter project.
+Plataforms: Android, iOS, Web
 
 ## Getting Started
 
